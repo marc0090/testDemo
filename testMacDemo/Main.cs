@@ -2,8 +2,6 @@
 
 namespace testMacDemo
 {
-	//test
-	//stash
 	static class MainClass
 	{
 		static void Main(string[] args)
