@@ -2,7 +2,7 @@
 
 namespace testMacDemo
 {
-	//
+	//test
 	static class MainClass
 	{
 		static void Main(string[] args)
