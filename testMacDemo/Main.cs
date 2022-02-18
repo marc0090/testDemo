@@ -4,7 +4,7 @@ namespace testMacDemo
 {
 
 	//test commit
-	//test commit1
+	//test
 	
 	static class MainClass
 	{
