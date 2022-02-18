@@ -2,10 +2,8 @@
 
 namespace testMacDemo
 {
+	//this is csi branch
 
-	//test commit
-	//test
-	
 	static class MainClass
 	{
 		static void Main(string[] args)
